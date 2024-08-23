@@ -1,3 +1,6 @@
+In the master branch, you will find six homework assignments from the Scientific Computing course. Below is a brief description of each assignment.
+
+
 ### 01
 
 functions for doing various matrix operations like multiplying matrices, checking if two matrices are similar, and creating rotation matrices, without using some built-in numpy functions.
